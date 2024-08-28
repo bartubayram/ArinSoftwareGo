@@ -13,7 +13,7 @@ func main() {
 
 	x, y := 15, 20
 	// set1 := (x == y)
-	set2 := (x < y)
+	set2 := (x <= y)
 	set3 := true
 
 	// fmt.Printf("%T,%v \n", set1, set1)
