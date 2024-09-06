@@ -37,6 +37,7 @@ func main() {
 // 	// Contains -> sağında yazılan ifadenin solundaki kelime içerisinde var mı yok mu diye göstermektedir.
 // 	// fmt.Println(strings.Count("animatrix", "a"))
 // }
+//trytrytrytry
 
 package main
 
